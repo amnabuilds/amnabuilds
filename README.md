@@ -1,6 +1,6 @@
 ## helo im amna  
 
-AI engineer | artist | weeb :3  
+compsci | artist | weeb :3  
 
 i design and build custom AI solutions  
 
